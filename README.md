@@ -13,6 +13,8 @@
  - 🖼️ Custom Sprites & UI
  - 🚀 Physics-based Movement & Collisions
 
+### ![Game Screen](https://github.com/user-attachments/assets/9a12a9f4-6c42-46e2-80fa-ae8ed79c97b7)
+
 📂 Installation
  - Clone the repo and run:
  - git clone https://github.com/yourusername/ArrowRush.git
